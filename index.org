@@ -16,6 +16,26 @@ The midterm is a take home exam. You have to pass the midterm in order to be adm
 ** Exam
 The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am, 2017. This is an individual exam (i.e. no groups).
 
+
+* Material
+** Lecture slides
+(tentative, later changes are possible)
+- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]] Mechanism Design
+- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
+- [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
+- [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
+- [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
+- [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing
+- [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]] Principal Agent / Auctions 
+- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W10]] Correlated Types
+
+
+** Other material
+- [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
+- [[https://github.com/schottmueller/mechdes/files/179481/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
+- Contests with risk averse contestants, jupyter [[http://nbviewer.jupyter.org/github/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
+
+
 ** Literature
 The main text book for the first part is
 - Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. Microeconomic theory. New York: Oxford University Press, 1995. only chapter 23 
@@ -36,24 +56,6 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 - Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." American Mathematical Monthly 69.1 (1962): 9-15. http://www.jstor.org/stable/2312726
 - Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
 - Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
-
-* Material
-** Lecture slides
-(tentative, later changes are possible)
-- [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]] Mechanism Design
-- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
-- [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
-- [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
-- [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
-- [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing
-- [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]] Principal Agent / Auctions 
-- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W10]] Correlated Types
-
-
-** Other material
-- [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
-- [[https://github.com/schottmueller/mechdes/files/179481/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
-- Contests with risk averse contestants, jupyter [[http://nbviewer.jupyter.org/github/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
 
 
 * Tentative lecture schedule

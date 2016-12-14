@@ -89,24 +89,24 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 -  reading: MWG p. 883-887
 
 
-** W5: Participation constraints
+** W5: lecture cancelled
+** W6: Participation constraints
 -  Myerson-Satterthwaite theorem
 -  reading: 887-889 and MWG 23.E
 -  optional extra reading on envelope theorems: Milgrom and Segal (2002)
 
-** W6: Optimal Bayesian mechanisms in quasilinear environments I
+** W7: Optimal Bayesian mechanisms in quasilinear environments I
 -  efficiency and timing
 -  optimal non-linear pricing
 -  reading: handout on envelope theorem etc., MWG p. 897-900 and Martimort and Stole (2009) p.84-86 (read the rest of the paper if you are interested)
 
 
-** W7: Optimal Bayesian mechanisms in quasilinear environments II
+** W8: Optimal Bayesian mechanisms in quasilinear environments II
 -  principal-agent problem with hidden information
 -  optimal auctions and revenue equivalence
 -  reading: MWG p. 889-891 and 900-906 (also 906-910 for those who are interested)
 
 
-** W8: work on midterm 
 ** W9: Solution to midterm
 -  going through some exercises of the midterm
 

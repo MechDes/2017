@@ -4,7 +4,7 @@
 
 * Organization
 
-The official course description (including schedule, exam requirements etc.) can be found [[http://http://kurser.ku.dk/course/a%c3%98kk08201u/2016-2017][here]].  A tentative lecture schedule is at the end of the page.
+The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2016-2017][here]].  A tentative lecture schedule is at the end of the page.
 
 Lectures: Friday 12.00-15.00, CSS 35-0-12
 
@@ -21,8 +21,8 @@ The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am
 ** Lecture slides
 (tentative, later changes are possible)
 - [[https://github.com/schottmueller/mechdes/files/78366/mech_des_01.pdf][W01]] Mechanism Design
-- [[https://github.com/schottmueller/mechdes/files/128119/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
-- [[https://github.com/schottmueller/mechdes/files/134286/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
+- [[https://github.com/MechDes/2017/files/798837/L02_revelation_GibbardSatterthwaite.pdf][W02]] Gibbard Satterthwaite
+- [[https://github.com/MechDes/2017/files/798730/mech_des03_dom_strat1.pdf][W03]] Clarke Groves
 - [[https://github.com/schottmueller/mechdes/files/158410/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
 - [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
 - [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing

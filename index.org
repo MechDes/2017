@@ -4,7 +4,7 @@
 
 * Organization
 
-*Please, note that the lecture on March 10 is cancelled.*
+*Please, read sections 1-4 of the math hand out before the lecture on March 17 and section 5 around March 24.*
 
 The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2016-2017][here]].  A tentative lecture schedule is at the end of the page.
 

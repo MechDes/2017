@@ -34,6 +34,7 @@ The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am
 
 ** Other material
 - [[https://github.com/schottmueller/mechdes/files/148574/math.pdf][Maths]] for Mechanism Design
+- [[https://github.com/MechDes/2017/files/851223/myersonSatterthwaiteProof.pdf][Handout]] on a more general proof of the Myerson-Satterthwaite theorem
 - [[https://github.com/MechDes/2017/files/847656/envelope_thm_non_linear_pricing.pdf][Handout]] on envelope theorem and single crossing in the non-linear pricing model
 - Contests with risk averse contestants, jupyter [[http://nbviewer.jupyter.org/github/schottmueller/mechdes/blob/master/webmaterial/Contest-design.ipynb][notebook]]
 

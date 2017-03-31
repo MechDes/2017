@@ -28,8 +28,8 @@ The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am
 - [[https://github.com/MechDes/2017/files/816433/L04expected-externality-mech.pdf][W04]] Expected Externality Mechanism
 - [[https://github.com/schottmueller/mechdes/files/158909/L05myerson_satterthwaite.pdf][W05]] Myerson Satterthwaite
 - [[https://github.com/schottmueller/mechdes/files/158913/mech_des06_non_lin_pricing.pdf][W06]] Non-linear Pricing
-- [[https://github.com/schottmueller/mechdes/files/180084/mech_des_07_principalagent.pdf][W09]] Principal Agent / Auctions 
-- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W10]] Correlated Types
+- [[https://github.com/MechDes/2017/files/884914/mech_des_07_principalagent.pdf][W07]] Principal Agent / Auctions 
+- [[https://github.com/schottmueller/mechdes/files/200732/mechdes09_correlated_types.pdf][W09]] Correlated Types
 
 
 ** Other material
@@ -117,7 +117,7 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 ** W10: Correlated types
 -  reading: Börgers ch. 6.4 or Cremer and McLean (1988)
-** W11: tba
+** W11: Information design
 ** W12: tba
 ** W13: tba
 ** W14: tba

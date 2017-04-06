@@ -15,6 +15,8 @@ If you have not taken Micro C (or forgotten most of it...), you might want to (r
 ** Midterm
 The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. The deadline for handing in is *Tuesday April 4, 18:00*. Please, hand in via email to "christoph.schottmueller {at} econ.ku.dk". The questions can be found [[https://github.com/MechDes/2017/files/841675/midterm.pdf][here]].
 
+Please check whether you have passed the midterm in [[https://github.com/MechDes/2017/files/902107/Mechanism.Design_web.pdf][this form]]. 
+
 ** Exam
 The final exam is a take home exam. The date is May 22 at 10am to May 29 at 10am, 2017. This is an individual exam (i.e. no groups).
 

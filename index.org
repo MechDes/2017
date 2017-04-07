@@ -4,13 +4,14 @@
 
 * Organization
 
-*Please, read sections 1-4 of the math hand out before the lecture on March 17 and section 5 around March 24.*
-
 The official course description (including schedule, exam requirements etc.) can be found [[http://kurser.ku.dk/course/a%c3%98kk08201u/2016-2017][here]].  A tentative lecture schedule is at the end of the page.
 
 Lectures: Friday 12.00-15.00, CSS 35-0-12
 
 If you have not taken Micro C (or forgotten most of it...), you might want to (re-)read chapters 1.1-1.3 and 3.1-3.2 in Robert Gibbons' "Game Theory" book before the course starts. You should also familiarize yourself with the maths [[https://github.com/schottmueller/mechdes/files/78397/math.pdf][handout]].
+
+** Internal Evaluation
+The [[https://github.com/MechDes/2017/files/904773/InternalEvaluationMechanism.Design.pdf][results]] of the internal evaluation are now available.
 
 ** Midterm
 The midterm is a take home exam. You have to pass the midterm in order to be admitted to the final exam. The midterm should be done in groups of up to three people. The deadline for handing in is *Tuesday April 4, 18:00*. Please, hand in via email to "christoph.schottmueller {at} econ.ku.dk". The questions can be found [[https://github.com/MechDes/2017/files/841675/midterm.pdf][here]].

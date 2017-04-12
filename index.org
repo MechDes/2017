@@ -52,16 +52,19 @@ It is not absolutely necessary to buy the book (though it is a classic for serio
 
 We will also cover (parts of) a few papers. A tentative list of papers is the following (you have to use the on campus internet or connect via VPN in order to download the papers for free):
 
-- Bergemann, Dirk, and Stephen Morris. "Robust mechanism design." Econometrica 73.6 (2005): 1771-1813.[[http://www.jstor.org/stable/3598751][link]]
+# - Bergemann, Dirk, and Stephen Morris. "Robust mechanism design." Econometrica 73.6 (2005): 1771-1813.[[http://www.jstor.org/stable/3598751][link]]
+- Bergemann, Dirk and Stephen Morris. ”Information Design: A Unified Perspective”, Cowles Foundation Working Paper 2075, (February 2017), [[cowles.yale.edu/sites/default/files/files/pub/d20/d2075.pdf][link]]
 - ﻿Milgrom, Paul and Segal, Ilya. "Envelope Theorems for Arbitrary Choice Sets." Econometrica 70.2 (2002): 583--601. http://dx.doi.org/10.1111/1468-0262.00296
 - Cremer, Jacques, and Richard P. McLean. "Full extraction of the surplus in Bayesian and dominant strategy auctions." Econometrica (1988): 1247-1257. http://www.jstor.org/stable/1913096
-- Segal,  Ilya, and Michael D. Whinston. "Property rights." Handbook of organizational economics (2012) http://web.stanford.edu/~isegal/prights.pdf
-- Moldovanu, Benny, and Aner Sela. "The optimal allocation of prizes in contests." American Economic Review (2001): 542-558. http://www.jstor.org/stable/pdf/2677878.pdf
-- Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) to sell nuclear weapons." American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
+# - Segal,  Ilya, and Michael D. Whinston. "Property rights." Handbook of organizational economics (2012) http://web.stanford.edu/~isegal/prights.pdf
+# - Moldovanu, Benny, and Aner Sela. "The optimal allocation of prizes in contests." American Economic Review (2001): 542-558. http://www.jstor.org/stable/pdf/2677878.pdf
+# - Jehiel, Philippe, Benny Moldovanu, and Ennio Stacchetti. "How (not) to sell nuclear weapons." American Economic Review (1996): 814-829. http://www.jstor.org/stable/2118306
+- Kamenica and Gentzkow, ”Bayesian Persuasion”, American Economic Review 101(6), 2011, p. 2590-2615, https://www.aeaweb.org/articles?id=10.1257/aer.101.6.2590
 - Martimort, David, and Lars Stole. "Market participation in delegated and intrinsic common-agency games." Rand Journal of Economics 40.1 (2009): 78-102. http://onlinelibrary.wiley.com/doi/10.1111/j.1756-2171.2008.00056.x/full
+- Roesler and Szentes, ”Buyer-optimal Learning and Monopoly Pricing”, American Economic Review, forthcoming, [[http://personal.lse.ac.uk/szentes/docs/learn8.pdf][link]]
 - Gale, David, and Lloyd S. Shapley. "College admissions and the stability of marriage." American Mathematical Monthly 69.1 (1962): 9-15. http://www.jstor.org/stable/2312726
-- Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
-- Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
+# - Roth, Alvin E. "The economist as engineer: Game theory, experimentation, and computation as tools for design economics." Econometrica 70.4 (2002): 1341-1378. http://onlinelibrary.wiley.com/doi/10.1111/1468-0262.00335/full
+# - Abdulkadiroglu, Atila, and Tayfun Sönmez. "School choice: A mechanism design approach." American Economic Review (2003): 729-747. http://www.jstor.org/stable/3132114
 
 
 * Tentative lecture schedule
@@ -120,7 +123,8 @@ We will also cover (parts of) a few papers. A tentative list of papers is the fo
 
 ** W10: Correlated types
 -  reading: Börgers ch. 6.4 or Cremer and McLean (1988)
-** W11: Information design
-** W12: tba
-** W13: tba
-** W14: tba
+** W11-13: Information design 
+- Bayesian persuasion
+- Buyer optimal learning and monopoly pricing
+- reading: Bergemann and Morris (2017), p. 1-11 and 24-32, Roesler and Szentes (forthcoming)
+- optional reading: Kamenica and Gentzkow (2011)
